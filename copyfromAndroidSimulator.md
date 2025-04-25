@@ -1,5 +1,5 @@
 1. To copy data from App mobile
-2. Pre-Install Android Studio, Install Pixels 7, Root
+2. Pre-Install Android Studio, Install Pixels 7, [Root it Instruction](https://www.youtube.com/watch?v=QzsNn3GhYYk) and [gitlab](https://gitlab.com/newbit/rootAVD)
 3. Use super user
    
 `cd C:\Users\ntthuong\AppData\Local\Android\Sdk\platform-tools`
